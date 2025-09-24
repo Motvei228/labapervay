@@ -6,7 +6,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Privet Vietnam!");
+            Console.WriteLine("Poka Vietnam!");
         }
     }
 }
